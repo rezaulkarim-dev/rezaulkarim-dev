@@ -4,6 +4,15 @@
 
   <br/><br/>
 
+<div align="center">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/generated/galaxy-header-mobile-light.svg">
+    <source media="(max-width: 600px)" srcset="./assets/generated/galaxy-header-mobile.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/galaxy-header-light.svg">
+    <img src="./assets/generated/galaxy-header.svg" width="850" alt="A galaxy drawn from my public repositories: one star per repository, one arm per focus area">
+  </picture>
+</div>
+
   <!-- 2. Your Name -->
   <h1>Hi 👋, I'm REZAUL KARIM</h1>
 
