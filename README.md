@@ -14,7 +14,7 @@
 </div>
 
   <!-- 2. Your Name -->
-  <h1>Hi 👋, I'm REZAUL KARIM</h1>
+<!--  <h1>Hi 👋, I'm REZAUL KARIM</h1> -->
 
   <!-- 3. Animated Typing Headline -->
   <a href="https://github.com/rezaulkarim-dev">
