@@ -1,8 +1,7 @@
 # Your GitHub username (required)
 username: rezaulkarim-dev
 
-# Profile information. name, tagline and philosophy are drawn in the galaxy header;
-# company, location and bio are not drawn: keep them here for your own reference.
+# Profile information.
 profile:
   name: "Rezaul Karim"
   tagline: "Competitive Programmer & Frontend Explorer"
@@ -11,7 +10,7 @@ profile:
     Diving into Competitive Programming and Vanilla HTML/CSS/JS development.
   philosophy: '"Breaking down logical puzzles, one algorithm at a time."'
 
-# Social links. Not drawn in the images: write them in your README.
+# Social links.
 social:
   email: "rezaulkarimsyam@gmail.com"
 
@@ -32,15 +31,13 @@ galaxy_arms:
       - "PyTorch"
       - "Jupyter Notebook"
 
-# Featured projects, shown in their own image and named in the galaxy.
-projects: []
 
 # Theme: Customizing the dark theme to match your Neon Green preference
 theme:
   dark: "deep-sky"
   light: "deep-sky"
-  void: "#0d1117"            # GitHub native dark mode background
-  synapse_cyan: "#00ff41"    # Matrix Neon Green for the active stars/dust
+  void: "#0d1117"            
+  synapse_cyan: "#00ff41"    
 
 # Motion: set to false for still images.
 motion: true
