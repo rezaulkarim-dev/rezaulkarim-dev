@@ -47,7 +47,12 @@ I am currently diving into the world of **Competitive Programming** and **Full S
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezaulkarim-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&v=1" alt="Rezaul's GitHub Stats" />
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/generated/stats-card-mobile-light.svg">
+  <source media="(max-width: 600px)" srcset="./assets/generated/stats-card-mobile.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/generated/stats-card-light.svg">
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Rezaul's GitHub Stats">
+</picture>
   
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezaulkarim-dev&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=c9d1d9" alt="Rezaul's GitHub Streak" />
