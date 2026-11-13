@@ -6,11 +6,9 @@ username: rezaulkarim-dev
 profile:
   name: "Rezaul Karim"
   tagline: "Competitive Programmer & Frontend Explorer"
-  company: "University of Science and Technology Chittagong"
   location: "Chattogram, Bangladesh"
   bio: |
     Diving into Competitive Programming and Vanilla HTML/CSS/JS development.
-    Currently exploring Deep Learning for my undergrad thesis (Multimodal Emotion Recognition).
   philosophy: '"Breaking down logical puzzles, one algorithm at a time."'
 
 # Social links. Not drawn in the images: write them in your README.
