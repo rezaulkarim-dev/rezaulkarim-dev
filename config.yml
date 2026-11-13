@@ -31,6 +31,8 @@ galaxy_arms:
       - "PyTorch"
       - "Jupyter Notebook"
 
+# Featured projects, shown in their own image and named in the galaxy.
+projects: []
 
 # Theme: Customizing the dark theme to match your Neon Green preference
 theme:
