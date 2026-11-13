@@ -5,10 +5,10 @@
 <!--  <br/><br/> -->
 <div align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/generated/galaxy-header-mobile-light.svg?v=2">
-    <source media="(max-width: 600px)" srcset="./assets/generated/galaxy-header-mobile.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/galaxy-header-light.svg?v=2">
-    <img src="./assets/generated/galaxy-header.svg?v=2" width="850" alt="A galaxy drawn from my public repositories">
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/generated/galaxy-header-mobile-light.svg?v=3">
+    <source media="(max-width: 600px)" srcset="./assets/generated/galaxy-header-mobile.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/galaxy-header-light.svg?v=3">
+    <img src="./assets/generated/galaxy-header.svg?v=3" width="850" alt="A galaxy drawn from my public repositories">
   </picture>
 </div>
 
