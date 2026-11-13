@@ -33,11 +33,7 @@ galaxy_arms:
       - "Jupyter Notebook"
 
 # Featured projects, shown in their own image and named in the galaxy.
-projects:
-  - repo: "rezaulkarim-dev/NASC26"
-    description: "EARTH//ORBIT - An interactive 2D scientific RPG built for NASA Space Apps Challenge 2026."
-  - repo: "rezaulkarim-dev/SDMS"
-    description: "Smart Disaster Management System - Advanced Database Management Lab Project."
+projects: []
 
 # Theme: Customizing the dark theme to match your Neon Green preference
 theme:
