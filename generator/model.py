@@ -211,7 +211,7 @@ def galaxy(snap: Snapshot, config: dict) -> GalaxyModel:
     return GalaxyModel(
         arms=arms or (Arm(None, ()), Arm(None, ())),
         loose=oldest_first(r for r in repos if r.key not in on_arm),
-        labels=frozenset(named[:LABEL_LIMIT]),
+        labels=frozenset(),
         order=tuple(r.key for r in oldest_first(repos)),
         today=snap.today,
     )
