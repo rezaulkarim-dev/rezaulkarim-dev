@@ -3,13 +3,12 @@
   <img src="https://i.pinimg.com/originals/1c/29/7b/1c297bdab5b149b56f8f533a3eaec2a3.gif" alt="Neon Coding Banner" width="100%" style="border-radius: 15px;"/>
 
 <!--  <br/><br/> -->
-
 <div align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/generated/galaxy-header-mobile-light.svg">
-    <source media="(max-width: 600px)" srcset="./assets/generated/galaxy-header-mobile.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/galaxy-header-light.svg">
-    <img src="./assets/generated/galaxy-header.svg" width="850" alt="A galaxy drawn from my public repositories: one star per repository, one arm per focus area">
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/generated/galaxy-header-mobile-light.svg?v=2">
+    <source media="(max-width: 600px)" srcset="./assets/generated/galaxy-header-mobile.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/galaxy-header-light.svg?v=2">
+    <img src="./assets/generated/galaxy-header.svg?v=2" width="850" alt="A galaxy drawn from my public repositories">
   </picture>
 </div>
 
@@ -49,6 +48,7 @@ I am currently diving into the world of **Competitive Programming** and **Full S
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rezaulkarim-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&v=1" alt="Rezaul's GitHub Stats" />
+  
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezaulkarim-dev&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=c9d1d9" alt="Rezaul's GitHub Streak" />
 </div>
