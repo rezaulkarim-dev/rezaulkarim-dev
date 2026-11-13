@@ -26,7 +26,7 @@
 
 ### 👨‍💻 About My Journey
 
-I am currently diving into the world of **Competitive Programming** and **Frontend Development**. I enjoy breaking down logical puzzles, learning new algorithms, and figuring out how to build interactive elements for the web. 
+I am currently diving into the world of **Competitive Programming** and **Full Stack Development**. I enjoy breaking down logical puzzles, learning new algorithms, and figuring out how to build interactive elements for the web. 
 
 - 🌱 Currently learning: **C++, Data Structures & Algorithms, and Vanilla HTML/CSS/JS**
 - 🚀 Goals for this year: Master CP basics, build my first interactive web apps, and keep my GitHub streak alive!
