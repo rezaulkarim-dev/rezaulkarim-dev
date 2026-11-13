@@ -2,7 +2,7 @@
   <!-- 1. Custom GIF Banner -->
   <img src="https://i.pinimg.com/originals/1c/29/7b/1c297bdab5b149b56f8f533a3eaec2a3.gif" alt="Neon Coding Banner" width="100%" style="border-radius: 15px;"/>
 
-  <br/><br/>
+<!--  <br/><br/> -->
 
 <div align="center">
   <picture>
