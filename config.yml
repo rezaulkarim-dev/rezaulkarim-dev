@@ -1,0 +1,67 @@
+# Your GitHub username (required)
+username: rezaulkarim-dev
+
+# Profile information. name, tagline and philosophy are drawn in the galaxy header;
+# company, location and bio are not drawn: keep them here for your own reference.
+profile:
+  name: "Rezaul Karim"
+  tagline: "Competitive Programmer & Frontend Explorer"
+  company: "University of Science and Technology Chittagong"
+  location: "Chattogram, Bangladesh"
+  bio: |
+    Diving into Competitive Programming and Vanilla HTML/CSS/JS development.
+    Currently exploring Deep Learning for my undergrad thesis (Multimodal Emotion Recognition).
+  philosophy: '"Breaking down logical puzzles, one algorithm at a time."'
+
+# Social links. Not drawn in the images: write them in your README.
+social:
+  email: "rezaulkarimsyam@gmail.com"
+
+# Galaxy arms are your focus areas.
+galaxy_arms:
+  - name: "Competitive Programming"
+    items:
+      - "C++"
+      - "C"
+  - name: "Web & Game Dev"
+    items:
+      - "JavaScript"
+      - "HTML"
+      - "CSS"
+  - name: "Machine Learning"
+    items:
+      - "Python"
+      - "PyTorch"
+      - "Jupyter Notebook"
+
+# Featured projects, shown in their own image and named in the galaxy.
+projects:
+  - repo: "rezaulkarim-dev/NASC26"
+    description: "EARTH//ORBIT - An interactive 2D scientific RPG built for NASA Space Apps Challenge 2026."
+  - repo: "rezaulkarim-dev/SDMS"
+    description: "Smart Disaster Management System - Advanced Database Management Lab Project."
+
+# Theme: Customizing the dark theme to match your Neon Green preference
+theme:
+  dark: "deep-sky"
+  light: "deep-sky"
+  void: "#0d1117"            # GitHub native dark mode background
+  synapse_cyan: "#00ff41"    # Matrix Neon Green for the active stars/dust
+
+# Motion: set to false for still images.
+motion: true
+
+# Stats configuration
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "repos"
+
+# Language display settings
+languages:
+  exclude:                     
+    - "Shell"
+    - "Makefile"
+  max_display: 8
